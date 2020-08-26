@@ -62,6 +62,7 @@ pip install flair
 pip install stanza
 pip install nlp
 pip install torchtext
+pip install tensorflow
 
 # TODO(tonioteran) Test these hacks:
 pip uninstall dataclasses  # To ensure allennlp works well.
