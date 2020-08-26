@@ -1,0 +1,6 @@
+[submodule "sotaai/rl/pybullet-gym"]
+	path = sotaai/rl/pybullet-gym
+	url = https://github.com/benelot/pybullet-gym.git
+[submodule "sotaai/neurosym/dgl"]
+	path = sotaai/neurosym/dgl
+	url = https://github.com/dmlc/dgl.git
