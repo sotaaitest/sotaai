@@ -69,3 +69,5 @@ pip uninstall dataclasses  # To ensure allennlp works well.
 
 # -- Actual Stateoftheart AI package:
 pip install -e .
+
+pip install tensorflow
